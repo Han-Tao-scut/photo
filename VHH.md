@@ -28,7 +28,7 @@
   free -h
   ```
 
-​		**Result**
+  	**Result**
 
 ![image-20251119171557881](./image-20251119171557881.png)
 
@@ -40,7 +40,7 @@
   lsb_release -a
   ```
 
-​		**Result**
+  	**Result**
 
 ![image-20251119171627766](./image-20251119171627766.png)
 
@@ -52,7 +52,7 @@
   nvidia-smi | grep "Driver Version"
   ```
 
-​		**Result**
+  	**Result**
 
 ![image-20251119171648791](./image-20251119171648791.png)
 
@@ -123,4 +123,10 @@ vhh-predict \
 ```
 
 **Note**: Replace `<path_to_models>` with the actual path to the pre-trained model directory.
+
+- The URL of **environment_conda.txt**:https://github.com/Han-Tao-scut/photo/blob/master/environment_conda.txt
+- The URL of **environment_pip.txt**:https://github.com/Han-Tao-scut/photo/blob/master/environment_pip.txt
+- The URL of **predict_result.xlsx** :https://github.com/Han-Tao-scut/photo/blob/master/predict_result.xlsx
+
+
 
