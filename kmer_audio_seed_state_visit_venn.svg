@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="518.740157pt"
+   height="317.480315pt"
+   viewBox="0 0 518.740157 317.480315"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="kmer_audio_seed_state_visit_venn.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.3956679"
+     inkscape:cx="438.14149"
+     inkscape:cy="296.99043"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2026-10-13T19:37:19.077942</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="patch_1">
+      <path
+         d="M 0 317.480315  L 518.740157 317.480315  L 518.740157 0  L 0 0  z "
+         style="fill: #ffffff"
+         id="path1" />
+    </g>
+    <g
+       id="axes_1">
+      <g
+         id="6mer_seed_set_44">
+        <path
+           d="M 136.773393 110.976268  C 112.550393 99.680897 86.737106 94.377612 65.018609 96.2344  C 43.300113 98.091187 27.449626 106.956448 20.958033 120.877713  C 14.466441 134.798977 17.863754 152.639635 30.401753 170.470489  C 42.939751 188.301342 63.594764 204.666581 87.817764 215.961952  C 112.040764 227.257322 137.854051 232.560607 159.572548 230.70382  C 181.291044 228.847032 197.141531 219.981771 203.633124 206.060506  C 210.124716 192.139242 206.727403 174.298584 194.189404 156.467731  C 181.651406 138.636877 160.996393 122.271638 136.773393 110.976268  z "
+           clip-path="url(#p3e1e47f40e)"
+           style="fill: #0072b2; fill-opacity: 0.08; stroke: #0072b2; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path2" />
+      </g>
+      <g
+         id="6mer_seed_set_1044">
+        <path
+           d="M 179.150142 149.752228  C 182.869838 123.285211 180.39432 97.049311 172.268792 76.822682  C 164.143263 56.596053 151.031138 44.030108 135.820209 41.892351  C 120.609279 39.754594 104.541451 48.219564 91.155477 65.422949  C 77.769503 82.626334 68.158289 107.163554 64.438592 133.630571  C 60.718896 160.097588 63.194414 186.333487 71.319942 206.560116  C 79.445471 226.786746 92.557596 239.35269 107.768526 241.490447  C 122.979455 243.628204 139.047283 235.163234 152.433257 217.959849  C 165.819231 200.756464 175.430445 176.219245 179.150142 149.752228  z "
+           clip-path="url(#p3e1e47f40e)"
+           style="fill: #e69f00; fill-opacity: 0.08; stroke: #e69f00; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path3" />
+      </g>
+      <g
+         id="6mer_seed_set_2044">
+        <path
+           d="M 152.471294 203.364471  C 178.792373 198.723355 202.979219 188.261658 219.70496 174.283449  C 236.430701 160.30524 244.329755 143.951777 241.662447 128.824721  C 238.995139 113.697664 225.979242 101.032071 205.481358 93.617392  C 184.983473 86.202712 158.677161 84.644322 132.356083 89.285438  C 106.035005 93.926555 81.848159 104.388251 65.122417 118.36646  C 48.396676 132.344669 40.497622 148.698132 43.16493 163.825188  C 45.832239 178.952245 58.848135 191.617838 79.34602 199.032517  C 99.843905 206.447197 126.150216 208.005587 152.471294 203.364471  z "
+           clip-path="url(#p3e1e47f40e)"
+           style="fill: #009e73; fill-opacity: 0.08; stroke: #009e73; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path4" />
+      </g>
+      <g
+         id="6mer_seed_set_3044">
+        <path
+           d="M 198.187077 140.2161  C 185.639452 116.617451 168.215641 96.847236 149.753036 85.259615  C 131.290431 73.671993 113.296422 71.213045 99.73398 78.424323  C 86.171537 85.635601 78.147976 101.928338 77.430392 123.714247  C 76.712807 145.500156 83.359787 171.000514 95.907412 194.599163  C 108.455036 218.197812 125.878847 237.968028 144.341452 249.555649  C 162.804057 261.14327 180.798066 263.602219 194.360509 256.39094  C 207.922951 249.179662 215.946512 232.886925 216.664097 211.101017  C 217.381681 189.315108 210.734701 163.81475 198.187077 140.2161  z "
+           clip-path="url(#p3e1e47f40e)"
+           style="fill: #cc79a7; fill-opacity: 0.08; stroke: #cc79a7; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path5" />
+      </g>
+      <g
+         id="6mer_seed_set_4044">
+        <path
+           d="M 168.091683 218.994068  C 186.657903 199.768185 200.076241 177.087823 205.391465 155.948071  C 210.706689 134.808318 207.484834 116.935141 196.435475 106.264899  C 185.386117 95.594658 167.411387 92.99853 146.47001 99.048283  C 125.528634 105.098035 103.330382 119.299733 84.764162 138.525617  C 66.197942 157.7515 52.779603 180.431862 47.46438 201.571615  C 42.149156 222.711367 45.371011 240.584544 56.42037 251.254786  C 67.469728 261.925027 85.444458 264.521155 106.385835 258.471402  C 127.327211 252.42165 149.525463 238.219952 168.091683 218.994068  z "
+           clip-path="url(#p3e1e47f40e)"
+           style="fill: #56b4e9; fill-opacity: 0.08; stroke: #56b4e9; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path6" />
+      </g>
+      <g
+         id="6mer_seed_exact_11111">
+        <text
+           style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: middle"
+           x="131.293156"
+           y="160.4154"
+           transform="rotate(-0 131.293156 160.4154)"
+           id="text6">1,030</text>
+      </g>
+    </g>
+    <g
+       id="axes_2">
+      <g
+         id="9mer_seed_set_44">
+        <path
+           d="M 397.560794 110.976268  C 373.337794 99.680897 347.524507 94.377612 325.806011 96.2344  C 304.087514 98.091187 288.237027 106.956448 281.745435 120.877713  C 275.253843 134.798977 278.651155 152.639635 291.189154 170.470489  C 303.727153 188.301342 324.382166 204.666581 348.605166 215.961952  C 372.828166 227.257322 398.641453 232.560607 420.359949 230.70382  C 442.078446 228.847032 457.928933 219.981771 464.420525 206.060506  C 470.912117 192.139242 467.514805 174.298584 454.976806 156.467731  C 442.438807 138.636877 421.783794 122.271638 397.560794 110.976268  z "
+           clip-path="url(#p9a311b677d)"
+           style="fill: #0072b2; fill-opacity: 0.08; stroke: #0072b2; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path7" />
+      </g>
+      <g
+         id="9mer_seed_set_1044">
+        <path
+           d="M 439.937543 149.752228  C 443.65724 123.285211 441.181722 97.049311 433.056194 76.822682  C 424.930665 56.596053 411.818539 44.030108 396.60761 41.892351  C 381.396681 39.754594 365.328853 48.219564 351.942879 65.422949  C 338.556905 82.626334 328.945691 107.163554 325.225994 133.630571  C 321.506297 160.097588 323.981815 186.333487 332.107344 206.560116  C 340.232872 226.786746 353.344998 239.35269 368.555927 241.490447  C 383.766856 243.628204 399.834684 235.163234 413.220658 217.959849  C 426.606632 200.756464 436.217847 176.219245 439.937543 149.752228  z "
+           clip-path="url(#p9a311b677d)"
+           style="fill: #e69f00; fill-opacity: 0.08; stroke: #e69f00; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path8" />
+      </g>
+      <g
+         id="9mer_seed_set_2044">
+        <path
+           d="M 413.258696 203.364471  C 439.579774 198.723355 463.76662 188.261658 480.492361 174.283449  C 497.218103 160.30524 505.117157 143.951777 502.449849 128.824721  C 499.78254 113.697664 486.766644 101.032071 466.268759 93.617392  C 445.770874 86.202712 419.464563 84.644322 393.143485 89.285438  C 366.822406 93.926555 342.63556 104.388251 325.909819 118.36646  C 309.184078 132.344669 301.285024 148.698132 303.952332 163.825188  C 306.61964 178.952245 319.635537 191.617838 340.133421 199.032517  C 360.631306 206.447197 386.937618 208.005587 413.258696 203.364471  z "
+           clip-path="url(#p9a311b677d)"
+           style="fill: #009e73; fill-opacity: 0.08; stroke: #009e73; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path9" />
+      </g>
+      <g
+         id="9mer_seed_set_3044">
+        <path
+           d="M 458.974478 140.2161  C 446.426854 116.617451 429.003043 96.847236 410.540438 85.259615  C 392.077833 73.671993 374.083823 71.213045 360.521381 78.424323  C 346.958939 85.635601 338.935378 101.928338 338.217793 123.714247  C 337.500209 145.500156 344.147189 171.000514 356.694813 194.599163  C 369.242438 218.197812 386.666248 237.968028 405.128853 249.555649  C 423.591459 261.14327 441.585468 263.602219 455.14791 256.39094  C 468.710352 249.179662 476.733914 232.886925 477.451498 211.101017  C 478.169083 189.315108 471.522103 163.81475 458.974478 140.2161  z "
+           clip-path="url(#p9a311b677d)"
+           style="fill: #cc79a7; fill-opacity: 0.08; stroke: #cc79a7; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path10" />
+      </g>
+      <g
+         id="9mer_seed_set_4044">
+        <path
+           d="M 428.879084 218.994068  C 447.445304 199.768185 460.863643 177.087823 466.178867 155.948071  C 471.494091 134.808318 468.272235 116.935141 457.222877 106.264899  C 446.173518 95.594658 428.198788 92.99853 407.257412 99.048283  C 386.316036 105.098035 364.117784 119.299733 345.551564 138.525617  C 326.985344 157.7515 313.567005 180.431862 308.251781 201.571615  C 302.936557 222.711367 306.158413 240.584544 317.207771 251.254786  C 328.25713 261.925027 346.23186 264.521155 367.173236 258.471402  C 388.114613 252.42165 410.312864 238.219952 428.879084 218.994068  z "
+           clip-path="url(#p9a311b677d)"
+           style="fill: #56b4e9; fill-opacity: 0.08; stroke: #56b4e9; stroke-opacity: 0.85; stroke-width: 0.6; stroke-linejoin: miter"
+           id="path11" />
+      </g>
+      <g
+         id="9mer_seed_exact_11111">
+        <text
+           style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: middle"
+           x="392.080557"
+           y="160.4154"
+           transform="rotate(-0 392.080557 160.4154)"
+           id="text11">19,542</text>
+      </g>
+    </g>
+    <g
+       id="seed_legend_marker_44">
+      <path
+         d="M 39.685039 297.070866  L 45.354331 297.070866  L 45.354331 291.968504  L 39.685039 291.968504  z "
+         style="fill: #0072b2; stroke: #0072b2; stroke-width: 0.6; stroke-linejoin: miter"
+         id="path12" />
+    </g>
+    <g
+       id="seed_legend_marker_1044">
+      <path
+         d="M 130.393701 297.070866  L 136.062992 297.070866  L 136.062992 291.968504  L 130.393701 291.968504  z "
+         style="fill: #e69f00; stroke: #e69f00; stroke-width: 0.6; stroke-linejoin: miter"
+         id="path13" />
+    </g>
+    <g
+       id="seed_legend_marker_2044">
+      <path
+         d="M 221.102362 297.070866  L 226.771654 297.070866  L 226.771654 291.968504  L 221.102362 291.968504  z "
+         style="fill: #009e73; stroke: #009e73; stroke-width: 0.6; stroke-linejoin: miter"
+         id="path14" />
+    </g>
+    <g
+       id="seed_legend_marker_3044">
+      <path
+         d="M 311.811024 297.070866  L 317.480315 297.070866  L 317.480315 291.968504  L 311.811024 291.968504  z "
+         style="fill: #cc79a7; stroke: #cc79a7; stroke-width: 0.6; stroke-linejoin: miter"
+         id="path15" />
+    </g>
+    <g
+       id="seed_legend_marker_4044">
+      <path
+         d="M 402.519685 297.070866  L 408.188976 297.070866  L 408.188976 291.968504  L 402.519685 291.968504  z "
+         style="fill: #56b4e9; stroke: #56b4e9; stroke-width: 0.6; stroke-linejoin: miter"
+         id="path16" />
+    </g>
+    <g
+       id="text_1">
+      <text
+         style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start"
+         x="8.503937"
+         y="17.162801"
+         transform="rotate(-0 8.503937 17.162801)"
+         id="text16">a</text>
+    </g>
+    <g
+       id="text_2">
+      <text
+         style="font-size: 7px; font-family: 'Arial'; text-anchor: start"
+         x="25.511811"
+         y="16.434774"
+         transform="rotate(-0 25.511811 16.434774)"
+         id="text17">6-mer graph | Audio (MP3)</text>
+    </g>
+    <g
+       id="text_3">
+      <text
+         style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start"
+         x="269.291339"
+         y="17.162801"
+         transform="rotate(-0 269.291339 17.162801)"
+         id="text18">b</text>
+    </g>
+    <g
+       id="text_4">
+      <text
+         style="font-size: 7px; font-family: 'Arial'; text-anchor: start"
+         x="286.299213"
+         y="16.434774"
+         transform="rotate(-0 286.299213 16.434774)"
+         id="text19">9-mer graph | Audio (MP3)</text>
+    </g>
+    <g
+       id="seed_legend_label_44">
+      <text
+         style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start"
+         x="48.755906"
+         y="296.700682"
+         transform="rotate(-0 48.755906 296.700682)"
+         id="text20">Seed 44</text>
+    </g>
+    <g
+       id="seed_legend_label_1044">
+      <text
+         style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start"
+         x="139.464567"
+         y="296.700682"
+         transform="rotate(-0 139.464567 296.700682)"
+         id="text21">Seed 1044</text>
+    </g>
+    <g
+       id="seed_legend_label_2044">
+      <text
+         style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start"
+         x="230.173228"
+         y="296.700682"
+         transform="rotate(-0 230.173228 296.700682)"
+         id="text22">Seed 2044</text>
+    </g>
+    <g
+       id="seed_legend_label_3044">
+      <text
+         style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start"
+         x="320.88189"
+         y="296.700682"
+         transform="rotate(-0 320.88189 296.700682)"
+         id="text23">Seed 3044</text>
+    </g>
+    <g
+       id="seed_legend_label_4044">
+      <text
+         style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start"
+         x="411.590551"
+         y="296.700682"
+         transform="rotate(-0 411.590551 296.700682)"
+         id="text24">Seed 4044</text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.001;stroke-linecap:butt;stroke-linejoin:round"
+     x="103.99389"
+     y="280.9375"
+     id="text25-3"><tspan
+       sodipodi:role="line"
+       id="tspan25-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1.001"
+       x="103.99389"
+       y="280.9375">U=1,049</tspan></text>
+  <defs
+     id="defs25">
+    <clipPath
+       id="p3e1e47f40e">
+      <rect
+         x="8.503937"
+         y="31.181102"
+         width="240.944882"
+         height="240.944882"
+         id="rect24" />
+    </clipPath>
+    <clipPath
+       id="p9a311b677d">
+      <rect
+         x="269.291339"
+         y="31.181102"
+         width="240.944882"
+         height="240.944882"
+         id="rect25" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:10px;font-family:Arial;-inkscape-font-specification:'Arial Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.001"
+     x="364.87906"
+     y="279.97351"
+     id="text25"><tspan
+       sodipodi:role="line"
+       id="tspan25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1.001"
+       x="364.87906"
+       y="279.97351">U=27,855</tspan></text>
+</svg>
