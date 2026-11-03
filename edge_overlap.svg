@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="453.543307pt" viewBox="0 0 518.740157 453.543307" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-03T11:07:00.377056</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 453.543307 
+L 518.740157 453.543307 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="all_electric">
+    <path d="M 150.177277 127.864564 
+C 165.296315 119.135584 178.133482 107.879653 185.861542 96.575761 
+C 193.589601 85.271868 195.577592 74.842926 191.387681 67.585788 
+C 187.197771 60.32865 177.172047 56.835829 163.518559 57.876579 
+C 149.865071 58.917329 133.698565 64.406676 118.579528 73.135657 
+C 103.46049 81.864637 90.623323 93.120567 82.895264 104.42446 
+C 75.167204 115.728353 73.179213 126.157295 77.369124 133.414433 
+C 81.559035 140.671571 91.584759 144.164392 105.238247 143.123642 
+C 118.891735 142.082892 135.05824 136.593545 150.177277 127.864564 
+z
+" clip-path="url(#p2f3045493f)" style="fill: #0072b2; fill-opacity: 0.1; stroke: #0072b2; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="all_mix_electric">
+    <path d="M 165.976152 100.50011 
+C 165.976152 83.04215 162.646814 66.296872 156.721386 53.952229 
+C 150.795957 41.607587 142.758224 34.671466 134.378403 34.671466 
+C 125.998582 34.671466 117.960848 41.607587 112.03542 53.952229 
+C 106.109991 66.296872 102.780653 83.04215 102.780653 100.50011 
+C 102.780653 117.958071 106.109991 134.703349 112.03542 147.047992 
+C 117.960848 159.392634 125.998582 166.328755 134.378403 166.328755 
+C 142.758224 166.328755 150.795957 159.392634 156.721386 147.047992 
+C 162.646814 134.703349 165.976152 117.958071 165.976152 100.50011 
+z
+" clip-path="url(#p2f3045493f)" style="fill: #d55e00; fill-opacity: 0.1; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="all_non_electric">
+    <path d="M 118.579528 127.864564 
+C 133.698565 136.593545 149.865071 142.082892 163.518559 143.123642 
+C 177.172047 144.164392 187.197771 140.671571 191.387681 133.414433 
+C 195.577592 126.157295 193.589601 115.728353 185.861542 104.42446 
+C 178.133482 93.120567 165.296315 81.864637 150.177277 73.135657 
+C 135.05824 64.406676 118.891735 58.917329 105.238247 57.876579 
+C 91.584759 56.835829 81.559035 60.32865 77.369124 67.585788 
+C 73.179213 74.842926 75.167204 85.271868 82.895264 96.575761 
+C 90.623323 107.879653 103.46049 119.135584 118.579528 127.864564 
+z
+" clip-path="url(#p2f3045493f)" style="fill: #009e73; fill-opacity: 0.1; stroke-dasharray: 5.12,1.28,0.8,1.28; stroke-dashoffset: 0; stroke: #009e73; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="51.170996" y="24.629307" transform="rotate(-0 51.170996 24.629307)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="24.629229" transform="rotate(-0 134.378403 24.629229)">All graphs</text>
+   </g>
+   <g id="intersection_all">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="102.570423" transform="rotate(-0 134.378403 102.570423)">I = 476</text>
+   </g>
+   <g id="union_all">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="177.878393" transform="rotate(-0 134.378403 177.878393)">U = 6,830</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="electric_mix_electric">
+    <path d="M 400.16063 127.864564 
+C 415.279667 119.135584 428.116834 107.879653 435.844894 96.575761 
+C 443.572954 85.271868 445.560944 74.842926 441.371033 67.585788 
+C 437.181123 60.32865 427.155399 56.835829 413.501911 57.876579 
+C 399.848423 58.917329 383.681917 64.406676 368.56288 73.135657 
+C 353.443843 81.864637 340.606675 93.120567 332.878616 104.42446 
+C 325.150556 115.728353 323.162566 126.157295 327.352476 133.414433 
+C 331.542387 140.671571 341.568111 144.164392 355.221599 143.123642 
+C 368.875087 142.082892 385.041592 136.593545 400.16063 127.864564 
+z
+" clip-path="url(#p0f806a8435)" style="fill: #0072b2; fill-opacity: 0.1; stroke: #0072b2; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="electric_mix_mix_electric">
+    <path d="M 415.959504 100.50011 
+C 415.959504 83.04215 412.630166 66.296872 406.704738 53.952229 
+C 400.779309 41.607587 392.741576 34.671466 384.361755 34.671466 
+C 375.981934 34.671466 367.9442 41.607587 362.018772 53.952229 
+C 356.093343 66.296872 352.764005 83.04215 352.764005 100.50011 
+C 352.764005 117.958071 356.093343 134.703349 362.018772 147.047992 
+C 367.9442 159.392634 375.981934 166.328755 384.361755 166.328755 
+C 392.741576 166.328755 400.779309 159.392634 406.704738 147.047992 
+C 412.630166 134.703349 415.959504 117.958071 415.959504 100.50011 
+z
+" clip-path="url(#p0f806a8435)" style="fill: #d55e00; fill-opacity: 0.1; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="301.154348" y="24.629307" transform="rotate(-0 301.154348 24.629307)">b</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="24.629307" transform="rotate(-0 384.361755 24.629307)">Electric / mixed electric</text>
+   </g>
+   <g id="intersection_electric_mix">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="102.570423" transform="rotate(-0 384.361755 102.570423)">I = 1,761</text>
+   </g>
+   <g id="union_electric_mix">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="177.878393" transform="rotate(-0 384.361755 177.878393)">U = 3,831</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="electric_non_electric">
+    <path d="M 150.177277 325.982454 
+C 165.296315 317.253473 178.133482 305.997543 185.861542 294.69365 
+C 193.589601 283.389757 195.577592 272.960815 191.387681 265.703677 
+C 187.197771 258.446539 177.172047 254.953719 163.518559 255.994468 
+C 149.865071 257.035218 133.698565 262.524566 118.579528 271.253546 
+C 103.46049 279.982526 90.623323 291.238457 82.895264 302.54235 
+C 75.167204 313.846242 73.179213 324.275184 77.369124 331.532322 
+C 81.559035 338.78946 91.584759 342.282281 105.238247 341.241531 
+C 118.891735 340.200782 135.05824 334.711434 150.177277 325.982454 
+z
+" clip-path="url(#pcdba90266a)" style="fill: #0072b2; fill-opacity: 0.1; stroke: #0072b2; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="electric_non_non_electric">
+    <path d="M 118.579528 325.982454 
+C 133.698565 334.711434 149.865071 340.200782 163.518559 341.241531 
+C 177.172047 342.282281 187.197771 338.78946 191.387681 331.532322 
+C 195.577592 324.275184 193.589601 313.846242 185.861542 302.54235 
+C 178.133482 291.238457 165.296315 279.982526 150.177277 271.253546 
+C 135.05824 262.524566 118.891735 257.035218 105.238247 255.994468 
+C 91.584759 254.953719 81.559035 258.446539 77.369124 265.703677 
+C 73.179213 272.960815 75.167204 283.389757 82.895264 294.69365 
+C 90.623323 305.997543 103.46049 317.253473 118.579528 325.982454 
+z
+" clip-path="url(#pcdba90266a)" style="fill: #009e73; fill-opacity: 0.1; stroke-dasharray: 5.12,1.28,0.8,1.28; stroke-dashoffset: 0; stroke: #009e73; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="51.170996" y="222.747197" transform="rotate(-0 51.170996 222.747197)">c</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="222.747197" transform="rotate(-0 134.378403 222.747197)">Electric / non-electric</text>
+   </g>
+   <g id="intersection_electric_non">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="300.688312" transform="rotate(-0 134.378403 300.688312)">I = 694</text>
+   </g>
+   <g id="union_electric_non">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="134.378403" y="375.996282" transform="rotate(-0 134.378403 375.996282)">U = 5,836</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="mix_non_mix_electric">
+    <path d="M 415.959504 298.618 
+C 415.959504 281.160039 412.630166 264.414761 406.704738 252.070119 
+C 400.779309 239.725476 392.741576 232.789355 384.361755 232.789355 
+C 375.981934 232.789355 367.9442 239.725476 362.018772 252.070119 
+C 356.093343 264.414761 352.764005 281.160039 352.764005 298.618 
+C 352.764005 316.075961 356.093343 332.821239 362.018772 345.165881 
+C 367.9442 357.510523 375.981934 364.446645 384.361755 364.446645 
+C 392.741576 364.446645 400.779309 357.510523 406.704738 345.165881 
+C 412.630166 332.821239 415.959504 316.075961 415.959504 298.618 
+z
+" clip-path="url(#p93e9c20a4d)" style="fill: #d55e00; fill-opacity: 0.1; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #d55e00; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="mix_non_non_electric">
+    <path d="M 368.56288 325.982454 
+C 383.681917 334.711434 399.848423 340.200782 413.501911 341.241531 
+C 427.155399 342.282281 437.181123 338.78946 441.371033 331.532322 
+C 445.560944 324.275184 443.572954 313.846242 435.844894 302.54235 
+C 428.116834 291.238457 415.279667 279.982526 400.16063 271.253546 
+C 385.041592 262.524566 368.875087 257.035218 355.221599 255.994468 
+C 341.568111 254.953719 331.542387 258.446539 327.352476 265.703677 
+C 323.162566 272.960815 325.150556 283.389757 332.878616 294.69365 
+C 340.606675 305.997543 353.443843 317.253473 368.56288 325.982454 
+z
+" clip-path="url(#p93e9c20a4d)" style="fill: #009e73; fill-opacity: 0.1; stroke-dasharray: 5.12,1.28,0.8,1.28; stroke-dashoffset: 0; stroke: #009e73; stroke-opacity: 0.95; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: start" x="301.154348" y="222.747197" transform="rotate(-0 301.154348 222.747197)">d</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="222.747197" transform="rotate(-0 384.361755 222.747197)">Mixed electric / non-electric</text>
+   </g>
+   <g id="intersection_mix_non">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="300.688312" transform="rotate(-0 384.361755 300.688312)">I = 978</text>
+   </g>
+   <g id="union_mix_non">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="384.361755" y="375.996282" transform="rotate(-0 384.361755 375.996282)">U = 6,474</text>
+   </g>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: middle" x="259.370079" y="444.016179" transform="rotate(-0 259.370079 444.016179)">Areas are schematic and not proportional to edge counts</text>
+  </g>
+  <g id="legend_1">
+   <g id="patch_2">
+    <path d="M 158.468204 419.714831 
+L 170.468204 419.714831 
+L 170.468204 414.114831 
+L 158.468204 414.114831 
+z
+" style="fill: #0072b2; fill-opacity: 0.1; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="176.868204" y="419.714831" transform="rotate(-0 176.868204 419.714831)">Electric</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 217.494454 419.714831 
+L 229.494454 419.714831 
+L 229.494454 414.114831 
+L 217.494454 414.114831 
+z
+" style="fill: #d55e00; fill-opacity: 0.1; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="235.894454" y="419.714831" transform="rotate(-0 235.894454 419.714831)">Mixed electric</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 299.194454 419.714831 
+L 311.194454 419.714831 
+L 311.194454 414.114831 
+L 299.194454 414.114831 
+z
+" style="fill: #009e73; fill-opacity: 0.1; stroke-dasharray: 5.12,1.28,0.8,1.28; stroke-dashoffset: 0; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start" x="317.594454" y="419.714831" transform="rotate(-0 317.594454 419.714831)">Non-electric</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2f3045493f">
+   <rect x="47.484592" y="13.606299" width="173.787622" height="173.787622"/>
+  </clipPath>
+  <clipPath id="p0f806a8435">
+   <rect x="297.467944" y="13.606299" width="173.787622" height="173.787622"/>
+  </clipPath>
+  <clipPath id="pcdba90266a">
+   <rect x="47.484592" y="211.724189" width="173.787622" height="173.787622"/>
+  </clipPath>
+  <clipPath id="p93e9c20a4d">
+   <rect x="297.467944" y="211.724189" width="173.787622" height="173.787622"/>
+  </clipPath>
+ </defs>
+</svg>
